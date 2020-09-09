@@ -1,0 +1,17 @@
+{
+	"ulid": "01EHPF314VKV3GWE2XEV6DVDPM",
+	"minTime": 1599544800000,
+	"maxTime": 1599552000000,
+	"stats": {
+		"numSamples": 329760,
+		"numSeries": 687,
+		"numChunks": 2748
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01EHPF314VKV3GWE2XEV6DVDPM"
+		]
+	},
+	"version": 1
+}

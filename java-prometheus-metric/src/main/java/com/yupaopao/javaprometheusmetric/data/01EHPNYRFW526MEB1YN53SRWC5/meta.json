@@ -1,0 +1,17 @@
+{
+	"ulid": "01EHPNYRFW526MEB1YN53SRWC5",
+	"minTime": 1599552000000,
+	"maxTime": 1599559200000,
+	"stats": {
+		"numSamples": 329760,
+		"numSeries": 687,
+		"numChunks": 2748
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01EHPNYRFW526MEB1YN53SRWC5"
+		]
+	},
+	"version": 1
+}
